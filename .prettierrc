@@ -2,11 +2,5 @@
   "printWidth": 100,
   "singleQuote": true,
   "bracketSameLine:": false,
-  "semi": false,
-  "plugins": [
-    "prettier-plugin-svelte",
-    "prettier-plugin-organize-imports",
-    "prettier-plugin-tailwindcss"
-  ],
-  "pluginSearchDirs": false
+  "semi": false
 }
